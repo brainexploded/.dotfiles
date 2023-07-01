@@ -7,5 +7,6 @@ My settings and stuff
 * git
 * neovim
 * stow
+* starship
 * [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 
