@@ -3,6 +3,8 @@
 echo "installing tmux configs..."
 mkdir ~/.config/tmux
 rm -f ~/.tmux.conf
+rm -rf ~/.config/nvim
+mkdir ~/.config/nvim
 stow -t ~ tmux
 
 echo "installing neovim configs..."

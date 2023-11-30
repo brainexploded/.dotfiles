@@ -3,3 +3,5 @@
 	name = Alexander Zabolotskiy
 [http]
 	sslVerify = false
+[pull]
+	ff = only
